@@ -1,0 +1,78 @@
+{
+  "ascii": [
+    "███████╗██╗  ██╗███████╗██╗     ██╗",
+    "██╔════╝██║  ██║██╔════╝██║     ██║",
+    "███████╗███████║█████╗  ██║     ██║",
+    "╚════██║██╔══██║██╔══╝  ██║     ██║",
+    "███████║██║  ██║███████╗███████╗███████╗",
+    "╚══════╝╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝"
+  ],
+  "title": "Shahid Hasan",
+  "username": "grazier",
+  "hostname": "canvas",
+  "password": "050823",
+  "repoLink": "https://github.com/nasan016/webshell",
+  "social": {
+    "email": "your@email.com",
+    "github": "yourgithub",
+    "linkedin": "you"
+  },
+  "aboutGreeting": "Hi, I’m Shahid Hasan, a software engineer and independent security researcher. In university, I solved complex problems through competitive programming, winning top rankings in ICPC regional and inter-university contests, and honed strong analytical and algorithmic skills.\n\nAfter graduation, I joined an AI SaaS startup, building systems to generate thousands of Amazon reviews, biographies, and info articles, helping users automate content creation efficiently. Currently, I work at a real-time ad tech company, developing pipelines and backend systems for data-driven advertising campaigns.\n\nAlongside work, I actively research cybersecurity, exploring vulnerabilities, system protections, and security techniques to strengthen applications and infrastructure.",
+  "projects": [
+    [
+      "GofeR",
+      "Vue.js reactivity in Go.",
+      "https://github.com/nasan016/gofer"
+    ],
+    [
+      "ShahidHasan",
+      "Terminal styled website.",
+      "https://github.com/nasan016/webshell"
+    ]
+  ],
+  "education": [
+    "B.Sc. in Computer Science and Engineering",
+    "Green University of Bangladesh",
+    "2019-2023"
+  ],
+  "experience": [
+    "Software Engineer, Ad-tech Company, 2023-Present",
+    "Software Engineer, AI SaaS Startup, 2022-2023"
+  ],
+  "skills": [
+    "Languages: C++, Python, Go, JavaScript, TypeScript",
+    "Frameworks: React, Vue, Node.js, Express.js, FastAPI",
+    "Databases: MongoDB, PostgreSQL, Redis",
+    "Tools: Docker, Git, Linux"
+  ],
+  "achievements": [
+    "ICPC Regional Contestant",
+    "Inter-university Contest Winner"
+  ],
+  "research": [
+    "No publications yet."
+  ],
+  "colors": {
+    "background": "#0C0623",
+    "foreground": "#F8DDE5",
+    "banner": "#FF9951",
+    "border": {
+      "visible": true,
+      "color": "#FFADE2"
+    },
+    "prompt": {
+      "default": "#A5A7A7",
+      "user": "#FE6BC9",
+      "host": "#70FDFF",
+      "input": "#FF7685"
+    },
+    "link": {
+      "text": "#B6AAEE",
+      "highlightColor": "#FFADE2",
+      "highlightText": "#0C0623"
+    },
+    "commands": {
+      "textColor": "#FD9BDB"
+    }
+  }
+}
